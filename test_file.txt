@@ -1,0 +1,6 @@
+Hi my name is Bhargav
+This is a test text file for the use in read_files.py
+
+This is the text that got appendedThis is the text that got appended
+This is how to append text in a new lineThis is the text that got appended
+This is how to append text in a new line
