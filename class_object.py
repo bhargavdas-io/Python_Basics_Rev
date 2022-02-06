@@ -8,3 +8,5 @@ class iphone_12:
         self.storage = storage
         self.price = price
         self.screen_size = screen_size
+
+
